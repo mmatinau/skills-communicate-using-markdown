@@ -9,3 +9,8 @@
 \*I added __6 heading styles__ to this file.
 
 ![cute-ghost](https://img.pikbest.com/origin/09/19/97/10vpIkbEsTAbz.png!w700wp)
+
+```python
+var = "hello world!"
+print(var)
+```
