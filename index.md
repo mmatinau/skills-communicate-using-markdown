@@ -14,3 +14,7 @@
 var = "hello world!"
 print(var)
 ```
+
+- [x] Task list 1
+- [ ] Task list 2
+- [ ] Task list 3
