@@ -15,6 +15,15 @@ var = "hello world!"
 print(var)
 ```
 
+
 - [x] Task list 1
 - [ ] Task list 2
 - [ ] Task list 3
+
+| Header 1 | Header 2 |
+|----------|----------|
+| r1c1 | r2c2 |
+| r2c1 | r2c2 |
+
+
+## I have edited this in ***VSCode*** 
